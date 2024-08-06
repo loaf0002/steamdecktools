@@ -1,7 +1,7 @@
 # steamdecktools
 Tools for your steam deck
 
-
+# NOT FINISHED YET
 
 
 How to run:
@@ -10,4 +10,7 @@ How to run:
 3. Type `git clone https://github.com/loaf0002/steamdecktools/
 4. Wait
 5. Run run.sh
-If nothings there then you came early somehow
+
+
+
+# NOT FINISHED YET
